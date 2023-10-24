@@ -17,6 +17,12 @@ Bye
 eyB
 dlroW olleH
 ```
+#### Skills Used
+
+- Data Structures
+- Algorithms
+- File I/O
+- OOP
 
 ## FileFilter
 
@@ -32,5 +38,11 @@ Bye
 hELLO wORLD
 bYE
 ```
+#### Skills Used
+
+- Data Structures
+- Algorithms
+- File I/O
+- OOP
 
 
