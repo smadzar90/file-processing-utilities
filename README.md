@@ -1,21 +1,23 @@
 # file-processing-utilities
-Filtering and reversing a file using a stack and queue constructed with a singly linked list
+
+This repository contains two Java utilities for file manipulation using custom data structures: a stack and a queue constructed with a singly linked list. These utilities are designed for reversing and filtering text files.
+
+
 
 ## FileReverser
-Reversing a file using a stack constructed with a singly linked list. The program reads the characters from the file and pushes them into the stack including the whitespaces and line changes. After the characters are pushed, the program pops the characters from the stack and prints it to a new file. 
+
+The File Reverser utility reverses the content of a text file using a stack constructed with a singly linked list. The program reads characters from the input file, including whitespaces and line changes, and pushes them onto the stack. After pushing the characters, the program pops them from the stack and writes them to a new output file in reversed order.
 
 Example: 
 
-Input file:
+###Input file:
 
 Hello World
-
 Bye
 
-Output file:
+###Output file:
 
 eyB
-
 dlroW olleH
 
 
