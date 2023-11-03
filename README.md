@@ -45,4 +45,8 @@ bYE
 - File I/O
 - OOP
 
+##Author
+
+- Stipan Madzar
+
 
